@@ -1,4 +1,5 @@
-# ExemploDeUploadDeArquivo
+# Exemplo De Upload De Arquivo
+Esse projeto foi criado com a intenção de aprender como fazer o upload de um arquivo para um servidor, ainda não fiz o tratamento desse arquivo, como verificar a sua extensão para verificar se é uma foto ou qualquer verificação de segurança.
 
 # Referências
 
